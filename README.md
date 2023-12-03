@@ -1,21 +1,21 @@
-# Relatório da Regressão Logística
+# Relatório
 
 1. Introdução:
    O modelo de regressão logística foi treinado e avaliado para prever a espécie de flores Iris com base em suas características botânicas. O conjunto de dados foi dividido em treinamento (80%) e teste (20%), e o modelo foi treinado separadamente para cada espécie: Iris-setosa, Iris-versicolor e Iris-virginica.
 
 2. Resultados por Espécie:
 
-   a. Iris-setosa:
+   1. Iris-setosa:
       - Acurácia: [Valor da acurácia]
       - Precisão: [Valor da precisão]
       - Recall: [Valor do recall]
 
-   b. Iris-versicolor:
+   2. Iris-versicolor:
       - Acurácia: [Valor da acurácia]
       - Precisão: [Valor da precisão]
       - Recall: [Valor do recall]
 
-   c. Iris-virginica:
+   3. Iris-virginica:
       - Acurácia: [Valor da acurácia]
       - Precisão: [Valor da precisão]
       - Recall: [Valor do recall]
@@ -33,5 +33,3 @@
 5. Considerações Finais:
    - O modelo pode ser refinado e ajustado com mais dados ou técnicas avançadas, se necessário.
    - Avaliações contínuas podem ser realizadas à medida que mais dados se tornam disponíveis.
-
-# flower_analysis
