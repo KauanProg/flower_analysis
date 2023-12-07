@@ -10,7 +10,7 @@ import numpy as np
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
-def train_logistic_regression(X, y, learning_rate=0.01, epochs=10000):
+def train_logistic_regression(X, y, learning_rate=0.01, epochs=1000):
     X = np.insert(X, 0, 1, axis=1)
 
     num_features = X.shape[1]
